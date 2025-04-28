@@ -29,7 +29,6 @@ Linguagem usada na construção do projeto:
 
 - [Java](https://docs.oracle.com/javase/8/docs/)
 - [Convenção Java](https://en.wikibooks.org/wiki/Java_Programming/Coding_conventions)
-### 🎲 Baixando o projeto
 
 Feito por Mohamad Montalbo
 
